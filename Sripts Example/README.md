@@ -3,7 +3,7 @@
 框架选择 
 --------------
 1.  Keras框架使用example， 新手使用keras； 
-2.  TensorLayer 框架使用example， 与keras相比：
+2.  TensorLayer 框架使用example， 与keras相比
     a） 在训练stacked CNN时， 训练速度能提升10%-15%， 不太明显 
     b） 在训练resnet结构时， 训练速度能提升60%左右，非常明显。 所以在实际使用中，以tensorlayer为主， 
 

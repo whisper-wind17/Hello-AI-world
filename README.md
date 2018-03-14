@@ -1,2 +1,4 @@
-# Hello-AI-world-
-AI paper, scripts, and related materials
+# Hello， AI World
+================================
+本目录记录 AI学习研究过程中的所有资料， 包括 Paper、文档、程序等 <br>
+============================

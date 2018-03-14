@@ -2,20 +2,20 @@
 =====================================================
 框架选择 
 --------------
-1.  Keras框架使用example， 新手使用keras； 
-2.  TensorLayer 框架使用example， 与keras相比
-    a） 在训练stacked CNN时， 训练速度能提升10%-15%， 不太明显 
-    b） 在训练resnet结构时， 训练速度能提升60%左右，非常明显。 所以在实际使用中，以tensorlayer为主， 
+1.  Keras框架使用example， 新手使用keras； <br>
+2.  TensorLayer 框架使用example， 与keras相比:<br>
+    a） 在训练stacked CNN时， 训练速度能提升10%-15%， 不太明显 <br>
+    b） 在训练resnet结构时， 训练速度能提升60%左右，非常明显。 所以在实际使用中，以tensorlayer为主
 
 DNN 架构
 ----------------------
-3.  不同CNN 架构的实现 example：
-    a） Resnet like 
-    b） ResNeXT like 
-    c） SE-Net
+3.  不同CNN 架构的实现 example：<br>
+    a） Resnet like <br>
+    b） ResNeXT like <br>
+    c） SE-Net<br>
 
 训练优化-loss
 -------------------
-4.  不同loss的对比， 考虑hard example， easy example
-    a） OHEM
-    b） Focal Loss 
+4.  不同loss的对比， 考虑hard example， easy example<br>
+    a） OHEM<br>
+    b） Focal Loss <br>
